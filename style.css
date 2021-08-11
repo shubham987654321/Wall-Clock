@@ -1,0 +1,67 @@
+.container{
+    position: relative;
+    height: 60vh;
+    width: 60vh;
+    /* background-color: red; */
+    /* border: 1px solid red; */
+    margin: auto;
+    margin-top: 40px;
+   
+
+    background-image: url('watch.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+
+#hour, #minute, #second{
+    position: absolute;
+    background-color:black;   
+    opacity: 0.7;
+    border-radius: 30%;
+    transform-origin: bottom;
+ 
+}
+
+#hour{
+
+    width: 2%;
+    height: 25%;
+    margin-top: 28%;
+    margin-left: 49.4%;
+
+}
+
+#minute{
+    width: 2%;
+    height: 29%;
+    margin-top: 24%;
+    margin-left: 49.4%;
+   
+ 
+}
+
+#second{
+    width: 2%;
+    height: 30%;
+    margin-top: 23%;
+    margin-left: 49.4%;
+    
+
+
+}
+
+#time{
+    border:1px solid gray;
+    width: 50%;
+    height: 5%;
+    background-color:whitesmoke;
+    margin: auto;
+    position: relative;
+    top:5px;
+    outline: 0px;
+    border-radius: 50%;
+   
+    
+
+}
