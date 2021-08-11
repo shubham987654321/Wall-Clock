@@ -25,7 +25,7 @@
 
 #hour{
 
-    width: 2%;
+    width: 2.1%;
     height: 25%;
     margin-top: 28%;
     margin-left: 49.4%;
@@ -33,7 +33,7 @@
 }
 
 #minute{
-    width: 2%;
+    width: 1.7%;
     height: 29%;
     margin-top: 24%;
     margin-left: 49.4%;
@@ -42,7 +42,7 @@
 }
 
 #second{
-    width: 2%;
+    width: 1.6%;
     height: 30%;
     margin-top: 23%;
     margin-left: 49.4%;
